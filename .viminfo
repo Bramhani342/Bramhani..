@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676985869,,"wq"
+|2,0,1676986296,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,10 +25,32 @@
 # Registers:
 
 # File marks:
-'0  26  0  ~/Bramhani..txt
-|4,48,26,0,1676985869,"~/Bramhani..txt"
+'0  2  0  ~/Bramhani..txt
+|4,48,2,0,1676986296,"~/Bramhani..txt"
+'1  1  0  ~/Bramhani..txt
+|4,49,1,0,1676986219,"~/Bramhani..txt"
+'2  1  0  ~/Bramhani..txt
+|4,50,1,0,1676986219,"~/Bramhani..txt"
+'3  8  0  ~/Bramhani..txt
+|4,51,8,0,1676985869,"~/Bramhani..txt"
+'4  8  0  ~/Bramhani..txt
+|4,52,8,0,1676985869,"~/Bramhani..txt"
+'5  26  0  ~/Bramhani..txt
+|4,53,26,0,1676985869,"~/Bramhani..txt"
+'6  26  0  ~/Bramhani..txt
+|4,54,26,0,1676985869,"~/Bramhani..txt"
 
 # Jumplist (newest first):
+-'  2  0  ~/Bramhani..txt
+|4,39,2,0,1676986296,"~/Bramhani..txt"
+-'  1  0  ~/Bramhani..txt
+|4,39,1,0,1676986225,"~/Bramhani..txt"
+-'  1  0  ~/Bramhani..txt
+|4,39,1,0,1676986219,"~/Bramhani..txt"
+-'  8  0  ~/Bramhani..txt
+|4,39,8,0,1676986186,"~/Bramhani..txt"
+-'  26  0  ~/Bramhani..txt
+|4,39,26,0,1676986186,"~/Bramhani..txt"
 -'  26  0  ~/Bramhani..txt
 |4,39,26,0,1676985869,"~/Bramhani..txt"
 -'  1  0  ~/Bramhani..txt
@@ -37,8 +59,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/Bramhani..txt
-	*	1676985868	0
-	"	26	0
-	^	26	0
-	.	25	2
-	+	25	2
+	*	1676986292	0
+	"	2	0
+	^	1	25
+	.	1	23
+	+	7	2
+	+	1	0
+	+	1	23
